@@ -1,7 +1,7 @@
 # arduino-sensor-som-ritmo-musical
 Circuito simples que detecta ritmo musical através do sensor de som KY-038 e liga/desliga fita de leds conforme a música.
 
-<p> Demonstração (vídeo)
+<p> Circuito e demonstração (vídeo)
  <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/373_R5mCbJQ" >
   <img src="https://user-images.githubusercontent.com/22710963/76530463-859d5d00-6452-11ea-9c5f-bcabe1b05273.png" alt="reset" style="max-width:100%;"></a>
 </p> 
