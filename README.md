@@ -3,7 +3,7 @@ Circuito simples que detecta ritmo musical através do sensor de som KY-038 e li
 
 <p> Demonstração (vídeo)
  <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/373_R5mCbJQ" >
-  <img src="https://user-images.githubusercontent.com/22710963/76327558-ec8f0a80-62c8-11ea-98f4-5571d3f16968.png" alt="reset" style="max-width:100%;"></a>
+  <img src="https://user-images.githubusercontent.com/22710963/76530463-859d5d00-6452-11ea-9c5f-bcabe1b05273.png" alt="reset" style="max-width:100%;"></a>
 </p> 
 
 ##### Ambiente Virtual de Hardware e Software [TinkerCad](https://www.tinkercad.com)  
@@ -29,7 +29,7 @@ Circuito simples que detecta ritmo musical através do sensor de som KY-038 e li
 - b) 1 Protoboard
 - c) 8-10 Cabos de conexão 
 - d) Fita Led Rgb 5050 Endereçável (10cm - 2m) 
-- f) 1 Sensor de som KY-038 
+- e) 1 Sensor de som KY-038 
 ```
 
  ### a) Placa Arduino com cabo USB
