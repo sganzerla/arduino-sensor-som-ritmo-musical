@@ -60,7 +60,11 @@ Circuito simples que detecta ritmo musical através do sensor de som KY-038 e li
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76327946-6aebac80-62c9-11ea-9b93-a7e231d9ef99.png">
   <img src="https://user-images.githubusercontent.com/22710963/76327946-6aebac80-62c9-11ea-9b93-a7e231d9ef99.png" alt="reset" style="max-width:100%;"></a></p> 
 
-  
+ Links Úteis:
+ 
+[viralsciencecreativity](https://www.viralsciencecreativity.com/post/arduino-sound-reactive-12v-lights)
+
+[fita led](https://produto.mercadolivre.com.br/MLB-1132236266-fita-led-ws2812b-rgb-5050-enderecavel-5mt-150-leds-ip30-5v-_JM)
   
 
 ###  Aplicações
